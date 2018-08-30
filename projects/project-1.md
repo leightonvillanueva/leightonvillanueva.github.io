@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kingk.jpg
 title: Key Club Convention Planning and Building
-permalink: projects/KeyClubConvention
+permalink: projects/keyclubconvention
 # All dates must be YYYY-MM-DD format!
 date: 2014 - 02 - 16
 labels:
