@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/keyclub.jpg
 title: Vacay
-permalink: projects/vacay
+permalink: projects/keyclubtalentshow
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-28
+date: 2014 - 02 - 16
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Teamwork.
+  - Team building.
+  - Leadership.
+  
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
