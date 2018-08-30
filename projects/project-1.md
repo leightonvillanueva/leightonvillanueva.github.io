@@ -2,43 +2,26 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Key Club Convention
-permalink: projects/micromouse
+title: Key Club Convention Planning and Building
+permalink: projects/KeyClubConvention
 # All dates must be YYYY-MM-DD format!
 date: 2014 - 02 - 16
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Community service.
+  - Teamwork.
+  - Event planning.
+summary: Worked with others to plan and work on the 2014 interisland Key Club convention on Kauai along with my other club members.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Every year, Key Club, a high schooler run community service club, hosts H-Con (Hawaii Convention), that invites all the schools in Hawaii to enjoy President's Day weekend together. Activities at the convention include seminars where students can learn leadership skills, a service project, and a talent show. In 2014, Kauai High was tasked with the preparations for the next convention. These tasks included set up, decorations, events, and facilitating the experience.  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was asked to primarily work on decorations alongside the commitee members of the Kauai High School Key Club. For the decorations, we were going for an Under the Sea/Beach theme. I spent countless weekends and nights working with my other club members on decorations such as jellyfish lanterns, backgrounds, PVC pipe work, and cutting miles of cardboard into the shapes we needed. Thankfully we were eventually able to complete all these tasks by the event date. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+ During the event, I spent a lot of my time helping to facilitate the various seminars acting as a runner to grab various needed supplies or hunt down presenters who might be running late. The service project for this year was helping to clean up the local elementary school. There I helped to make sure each group had the proper tools and were working in the correct areas.
 
 
 
