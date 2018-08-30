@@ -14,7 +14,7 @@ summary: Worked with others to plan and work on the 2014 interisland Key Club co
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/kingk.jpg">
 </div>
 
 Every year, Key Club, a high schooler run community service club, hosts H-Con (Hawaii Convention), that invites all the schools in Hawaii to enjoy President's Day weekend together. Activities at the convention include seminars where students can learn leadership skills, a service project, and a talent show. In 2014, Kauai High was tasked with the preparations for the next convention. These tasks included set up, decorations, events, and facilitating the experience.  
