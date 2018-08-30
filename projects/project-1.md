@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Key Club Convention
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-28
+date: 2014 - 02 - 16
 labels:
   - Robotics
   - Arduino
