@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/kingk.jpg
 title: Key Club Convention Planning and Building
 permalink: projects/KeyClubConvention
 # All dates must be YYYY-MM-DD format!
