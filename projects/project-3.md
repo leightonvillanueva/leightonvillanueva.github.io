@@ -13,4 +13,4 @@ summary: Here I will talk about my Commander deck
 
 <img class="ui medium right floated rounded image" src="../images/queenmarchesa.jpg">
 
-My Queen Marchesa deck focuses around controlling 
+My Queen Marchesa deck focuses around controlling the board state.
