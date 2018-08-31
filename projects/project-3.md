@@ -11,6 +11,6 @@ labels:
 summary: Here I will talk about my Commander deck  
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/queenmarchesa.jpg">
+<img class="ui medium right floated rounded image" src="../images/queenmarchesa.jpg">
 
 My Queen Marchesa deck focuses around controlling 
