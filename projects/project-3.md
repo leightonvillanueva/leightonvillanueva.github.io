@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/commander
+image: images/queenmarchesa.jpg
 title: Queen Marchesa
 permalink: projects/project-3
 # All dates must be YYYY-MM-DD format!
