@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/keyclub.jpg
-title: Vacay
+title: Performance
 permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
 date: 2014-02-16
