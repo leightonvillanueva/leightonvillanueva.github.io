@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/keyclub.jpg
 title: Vacay
-permalink: projects/keyclubtalentshow
+permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
-date: 2014 - 02 - 16
+date: 2014-02-16
 labels:
   - Teamwork.
   - Team building.
