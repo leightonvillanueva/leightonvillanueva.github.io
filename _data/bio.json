@@ -2,9 +2,9 @@
   "basics": {
     "name": "Leighton Villanueva",
     "label": "Student",
-    "picture": "https://leightonvillanueva.github.io/images/headshot.jpg",
+    "picture": "https://techfolios.github.io/template/images/headshot.jpg",
     "email": "lavillan@hawaii.edu",
-    "phone": "",
+    "phone": "808-212-6786",
     "website": "https://leightonvillanueva.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -18,12 +18,22 @@
       {
         "network": "github",
         "username": "leightonvillanueva",
-        "url": "https://github.com/leightonvillanueva/leightonvillanueva.github.io"
+        "url": "http://github.com/leightonvillanueva/leightonvillanueva.github.io"
       },
       {
         "network": "linkedin",
-        "username": "Leighton Villanueva",
+        "username": "leightonvillanueva",
         "url": "https://www.linkedin.com/in/leightonvillanueva/"
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -36,7 +46,7 @@
       ]
     },
     {
-      "name": "video games",
+      "name": "data mining",
       "keywords": [
       ]
     },
@@ -54,7 +64,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -123,7 +135,7 @@
     {
       "organization": "",
       "website": "",
-      "position": ,
+      "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
@@ -136,16 +148,16 @@
   ],
   "awards": [
     {
-      "title":,
-      "date": ,
-      "awarder": ,
-      "summary":
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title":,
-      "date": ,
-      "awarder":,
-      "summary": 
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
