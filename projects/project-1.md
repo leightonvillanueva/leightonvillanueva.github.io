@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/kingk.jpg
 title: Key Club Convention Planning and Building
-permalink: projects/keyclubconvention
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
-date: 2014 - 02 - 16
+date: 2014-02-16
 labels:
   - Community service.
   - Teamwork.
