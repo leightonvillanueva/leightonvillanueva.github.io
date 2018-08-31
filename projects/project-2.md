@@ -11,7 +11,7 @@ labels:
   - Team building.
   - Leadership.
   
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: I worked with fellow Key Club coordinators to create performance for my clubs talent show performance.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/keyclub.jpg">
