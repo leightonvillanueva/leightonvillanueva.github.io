@@ -8,7 +8,7 @@
     "website": "https://leightonvillanueva.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
+      "address": "4100 Palikea St.",
       "postalCode": "96766",
       "city": "Lihue",
       "countryCode": "USA",
@@ -24,10 +24,6 @@
         "network": "linkedin",
         "username": "leightonvillanueva",
         "url": "https://www.linkedin.com/in/leightonvillanueva/"
-      },
-      {
-      },
-      {
       }
     ]
   },
@@ -76,7 +72,10 @@
   ],
   "volunteer": [
   ],
-  "awards": [
+  "awards": [ 
+    {
+      "Got 3rd in my middle school spelling bee."
+  }
   ],
   "references": [
     {
