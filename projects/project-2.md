@@ -20,4 +20,4 @@ Alongside the Key Club Convention planning I, along with a few other students, w
 
 The four coordinators were given a group to lead. Each group was also given a theme for their performance. Kauai High normally does dances and this year was no exception. I pitched the idea to everyone that our performance should be based around the film "Teen Beach Movie." As my fellow coordinators and I are not particularly skilled at dancing we enlisted the help of some members of the local dance club to help choreograph. I acted as the primary liaison between the dance club and our groups. We spent a few weeks over the spring break working on the dances, drilling over and over. It was a rough experience to lose but it was a good learning experience for me. 
 
-Here is a video of the final performance: <src="https://www.youtube.com/embed/Ppjiu8eqOfs">
+Here is a video of the final performance: https://www.youtube.com/embed/Ppjiu8eqOfs
