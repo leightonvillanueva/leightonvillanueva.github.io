@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript A New Experience
+title: Asking Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-07
 labels:
