@@ -21,4 +21,6 @@ To win the game, my deck focuses on nickel and diming my opponents until I win t
 
 I also play this deck with another aspect of commander and multiplayer games in mind, politics. Given the nature of my decks construction, most players at the table will dislike me because they don't like that I'm making it difficult for them to play their cards. This means I must play a stronger mental game than my opponents and make sure that I point out other threats on the board other than myself. With the way my deck is constructed I have to pit my opponents against each other rather than play just the cards themselves. Any deck will fold against multiple players attacking me so it's defintiely important to make sure that I dodge or deflect people's aggression away from me.
 
+Some of my favorite cards are ones that have an effect on all of my opponents. Rule of Law and Eidolon of Rhetoric make it so that all players can only play one spell per turn. This is a strong card versus decks that need many cards to be played in a row on their turn to win the game.
+
 This deck is still a work in progress though as I don't have an infinite amount of money to spend on Magic cards. Thankfully I have been able to find a few friends on campus who play commander. I'm excited to continue getting games in with them and continuing to iterate on my commander deck!
