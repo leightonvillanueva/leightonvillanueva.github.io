@@ -43,4 +43,4 @@ labels:
       <li>Supports reviews of people, to be monitored by admins. </li>
 </ul>  
   </p>
-</header
+</header>
