@@ -38,8 +38,8 @@ labels:
   <h2>Beyond the basics</h2>
   <p>
     <ul>
-      <li></li>
-      <li></li>
+      <li>Integration with gogole calendar to have sign ups for game nights.</li>
+      <li>List games each person owns.</li>
       <li>Supports reviews of people, to be monitored by admins. </li>
 </ul>  
   </p>
