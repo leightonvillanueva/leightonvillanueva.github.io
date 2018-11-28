@@ -8,7 +8,7 @@ labels:
   - 
 ---
 
-<img class="ui tiny left circular floated image" src="https://react.semantic-ui.com/logo.png">
+<img class="ui tiny left circular floated image" src="oktarget.jpg">
 
 <h1>All Things Done By Design</h1>
 
