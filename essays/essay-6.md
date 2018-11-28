@@ -8,7 +8,7 @@ labels:
   - 
 ---
 
-<img class="ui tiny left circular floated image" src="leightonvillanueva.github.io/images/oktarget.jpg">
+<img class="ui tiny left circular floated image" src="../images/oktarget.jpg">
 
 <h1>All Things Done By Design</h1>
 
