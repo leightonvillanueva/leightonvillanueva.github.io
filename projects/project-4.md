@@ -15,5 +15,5 @@ summary: I worked with a group of fellow UH Manoa students to create an app desi
 
 <img class="ui medium right floated rounded image" src="../images/musiciansofmanoa.jpg">
 
-http://musiciansofmanoa.meteorapp.com/
+http://musiciansofmanoa.meteorapp.com/</br>
 https://musiciansofmanoa.github.io/
